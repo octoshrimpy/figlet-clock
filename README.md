@@ -46,6 +46,6 @@ All your windows will be waiting for you, as this uses tmux popups and does not 
 ---
 
 
-Made with 💜 for [Charm](https://charm.sh/)
+Made with 💜 for [Charm](https://charm.sh/) and [tmux](https://github.com/tmux/tmux)
 
 <a href="https://charm.sh/"><img alt="The Charm logo" src="https://stuff.charm.sh/charm-badge.jpg" width="400"></a>
